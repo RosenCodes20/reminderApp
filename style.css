@@ -12,3 +12,13 @@ html {
 *::after {
     box-sizing: inherit;
 }
+
+.logo-div > img {
+    width: 300px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
