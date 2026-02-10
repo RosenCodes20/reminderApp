@@ -40,5 +40,14 @@ li > a {
 
 nav > ul {
     display: flex;
-    gap: 2em;
+    gap: 4em;
+}
+
+.login-btn {
+    background: #FDC741;
+    padding: 0.6em 1.6em;
+    text-align: center;
+    border-radius: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
