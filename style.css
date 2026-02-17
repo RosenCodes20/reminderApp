@@ -108,3 +108,15 @@ li > a:hover {
 .text-wrap > p {
     line-height: 1.5;
 }
+
+.boxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    gap: 3em;
+}
+
+.box {
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
