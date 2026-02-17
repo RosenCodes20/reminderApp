@@ -24,7 +24,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
     background: rgba(255, 255, 255, 0.1);
     background: radial-gradient(circle,rgba(255, 255, 255, 1) 24%, rgba(178, 200, 236, 1) 98%);
     height: 100px;  
@@ -63,7 +65,8 @@ li > a:hover {
     display: flex;
     align-items: center;
     justify-content: space-around;
-
+    background: linear-gradient(135deg, #e0ecff 0%, #f4f8ff 50%, #ffffff 100%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .img-wrap img {
