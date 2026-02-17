@@ -58,3 +58,14 @@ li > a:hover {
     border-bottom: 2px solid #0E6CC7;
     transition: 0.3s ease-in-out;
 }
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img-wrap img {
+    width: 300px;
+    margin-top: 1em;
+}
