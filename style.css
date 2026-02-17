@@ -181,3 +181,7 @@ li > a:hover {
 .check-div .fa-bell {
     background: #FECB1E;
 }
+
+.box-three > .check-div > p > .fa-check { 
+    background: #98C152;
+}
