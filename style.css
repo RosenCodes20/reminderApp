@@ -63,9 +63,19 @@ li > a:hover {
     display: flex;
     align-items: center;
     justify-content: space-around;
+
 }
 
 .img-wrap img {
     width: 300px;
     margin-top: 1em;
+}
+
+.text-wrap h1 {
+    width: 300px;
+}
+
+.text-wrap p {
+    width: 310px;
+    margin: 1em 0;
 }
