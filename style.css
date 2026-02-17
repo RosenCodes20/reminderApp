@@ -119,4 +119,22 @@ li > a:hover {
 
 .box {
     box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+}
+
+.box > p {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+.box h4 {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+.box-one {
+    background: #E4EEFC;
 }
