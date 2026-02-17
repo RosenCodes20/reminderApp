@@ -144,6 +144,10 @@ li > a:hover {
     background-color: #FDF1D9;
 }
 
+.box-three {
+    background: #F2F6EC;
+}
+
 .check-div {
     margin-bottom: 1.5em;
 }
