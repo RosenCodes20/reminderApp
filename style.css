@@ -66,7 +66,7 @@ li > a:hover {
     align-items: center;
     justify-content: space-around;
     background: linear-gradient(135deg, #e0ecff 0%, #f4f8ff 50%, #ffffff 100%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
 }
 
 .img-wrap img {
@@ -95,7 +95,6 @@ li > a:hover {
     padding: 0.7em 2.5em;
     margin-top: 1em;
     border-radius: 0.5em;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .text-wrap > a > i {
