@@ -88,7 +88,7 @@ li > a:hover {
     color: #253B5E;
 }
 
-.text-wrap > a {
+.text-wrap > a, .add, .view, .settings {
     background: #2F71D0;
     color: white;
     text-decoration: none;
@@ -191,4 +191,37 @@ li > a:hover {
     justify-content: space-around;
     align-items: center;
     margin-top: 5em;
+}
+
+body {
+    background: #F5F5FD;
+}
+
+.quick-actions {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1.3em;
+    border-radius: 0.5em;
+    box-shadow: 0 4px 12px rgba(47, 113, 208, 0.3);
+}
+
+.quick-actions > hr {
+    background: #FBFAFE;
+}
+
+.view {
+    background: #7BB342;
+}
+
+.settings {
+    background: #F0EDF4;
+    color: black;
+}
+
+.quick-actions > h4 {
+    font-size: 1.3em;
+    color: #28293F;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 0.5em;
 }
