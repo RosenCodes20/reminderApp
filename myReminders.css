@@ -164,7 +164,7 @@ body {
     border-radius: 0.8em;
     padding: 1.2em 1.5em;
     margin-bottom: 1em;
-    width: 300px;
+    width: 550px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -220,4 +220,17 @@ body {
 .reminder-actions .fa-trash:hover {
     background: #e54848;
     color: #ffffff;
+}
+
+.myReminders {
+    background: #ffffff;
+    padding: 2em;
+    border-radius: 0.8em;
+    width: 650px;
+}
+
+.cards {
+    background: #F8FAFF;
+    padding: 1em;
+    border-radius: 0.5em;
 }
