@@ -234,3 +234,28 @@ body {
     padding: 1em;
     border-radius: 0.5em;
 }
+
+.reminders {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.reminders a {
+    text-decoration: none;
+    padding: 0.5em 1.5em;
+    border-radius: 2em;
+    font-size: 0.9em;
+    font-weight: 600;
+    background: #eef3ff;
+    color: #2F71D0;
+    transition: 0.3s ease;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+.reminders a:hover {
+    background: #2F71D0;
+    color: #ffffff;
+}
