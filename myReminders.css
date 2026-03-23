@@ -133,6 +133,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 70dvh;
 }
 
 .myRemindersDiv {
@@ -143,8 +144,10 @@ body {
 }
 
 .addReminderMyReminders {
-    background: radial-gradient(circle,rgba(9, 9, 121, 1) 54%, rgba(0, 212, 255, 1) 100%);
+    background: #BACEEE;
     color: white;
     text-decoration: none;
+    padding: 0.5em 1.2em;
+    border-radius: 0.7em;
     
 }
