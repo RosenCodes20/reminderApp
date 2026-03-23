@@ -141,3 +141,10 @@ body {
     justify-content: space-around;
     gap: 2em;
 }
+
+.addReminderMyReminders {
+    background: radial-gradient(circle,rgba(9, 9, 121, 1) 54%, rgba(0, 212, 255, 1) 100%);
+    color: white;
+    text-decoration: none;
+    
+}
