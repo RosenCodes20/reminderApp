@@ -123,3 +123,7 @@ li > a:hover {
     color:#aaa;
     margin-bottom:0;
 }
+
+body {
+    background: #F5F5FD;
+}
