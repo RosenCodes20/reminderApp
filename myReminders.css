@@ -127,3 +127,9 @@ li > a:hover {
 body {
     background: #F5F5FD;
 }
+
+.myReminderMain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
