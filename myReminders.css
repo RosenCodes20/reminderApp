@@ -135,7 +135,7 @@ body {
     justify-content: center;
     flex-direction: column;
     min-height: 70dvh;
-    gap: 1.5em;
+    gap: 2.5em;
 }
 
 .myRemindersDiv {
